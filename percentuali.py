@@ -5,7 +5,6 @@ sia come sconti che come rincari in base a quello che si sceglie
 Fa parte della collezzione di programmi "Siple program for everyday life"
 
 """
-import time
 
 print ("Ciao, questo programma calcola le percentuali sia come sconti che come rincari \n")
 scelta = input ("Il prezzo finale da calcolare è uno sconto o un rincaro? r = rincaro e s = sconto (r/s): ")
